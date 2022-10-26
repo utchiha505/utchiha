@@ -9,7 +9,7 @@
 <table class="mcnButtonContentContainer" style="border-collapse: separate !important; border-radius: 7px; background-color: #0067ff;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td class="mcnButtonContent" style="padding: 12px 44px 12px 44px; font-family: Calibri,Trebuchet,Arial,sans serif; font-size: 17px; color: #ffffff; border-radius: 25px;" align="center" valign="middle"><a class="mcnButton Resolve your account" style="font-weight: bold; letter-spacing: normal; line-height: 100%; text-align: center; text-decoration: none; color: #ffffff;" title="Resolve your account" href="" target="_blank"><strong> cliquez ici </strong></a></td>
+<td class="mcnButtonContent" style="padding: 12px 44px 12px 44px; font-family: Calibri,Trebuchet,Arial,sans serif; font-size: 17px; color: #ffffff; border-radius: 25px;" align="center" valign="middle"><a class="mcnButton Resolve your account" style="font-weight: bold; letter-spacing: normal; line-height: 100%; text-align: center; text-decoration: none; color: #ffffff;" title="Resolve your account" href=" " target="_blank"><strong> cliquez ici </strong></a></td>
 </tr>
 </tbody>
 </table>
