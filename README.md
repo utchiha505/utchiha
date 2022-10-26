@@ -16,3 +16,4 @@
 <p style="text-align: left;"> </p>
 <p style="text-align: left;"><br /><strong>À très bientôt.</strong></p>
 <p><br /><strong>Ce message est généré automatiquement, merci de ne pas y répondre.</strong></p>
+<h1>Source Postal b</h1>
